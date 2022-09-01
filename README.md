@@ -22,7 +22,7 @@
 
 <br></br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacts 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="30" style="margin-right">Contacts 
 
 <p align="center">
 
