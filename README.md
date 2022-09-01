@@ -22,6 +22,41 @@
 
 <br></br>
 
+## 🛠 &nbsp;Tech Stack
+### Language
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
+### Deep Learning Framework
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+### Database
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></img>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></img>&nbsp;
+
+### Backend
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+
+### Cloud
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></img>&nbsp;
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google_Cloud"></img>&nbsp;
+
+<br></br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> </img> Blog Post
+
+<!-- BLOG-POST-LIST:START -->
+
+- English 
+  - [Debugging Argparse Module on Jupyter notebook part1](https://psyduck5.tistory.com/13) 
+  - [Debugging Argparse Module on Jupyter notebook part2](https://psyduck5.tistory.com/14) 
+- Korean 
+  - [Pyspark on Jupyter notebook Basics](https://psyduck5.tistory.com/74)
+  - [Paper Review - FID](https://psyduck5.tistory.com/51)
+<!-- BLOG-POST-LIST:END -->
+
+<br></br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"></img>Contacts 
 
 <p align="center">
@@ -35,15 +70,3 @@
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 </p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> </img> Blog Post
-
-<!-- BLOG-POST-LIST:START -->
-
-- English 
-  - [Debugging Argparse Module On Jupyter part1](https://psyduck5.tistory.com/13) 
-  - [Debugging Argparse Module On Jupyter part2](https://psyduck5.tistory.com/14) 
-- Korean 
-  - [Pyspark on Jupyter notebook Basics](https://psyduck5.tistory.com/74)
-  - [Paper Review - FID](https://psyduck5.tistory.com/51)
-<!-- BLOG-POST-LIST:END -->
