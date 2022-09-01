@@ -10,16 +10,9 @@
 </a>
 
 - :credit_card: My full name is **Philhoon Oh**, pronunced as __[fíl huːn o]__ 
-- :books: My major is **Statistics**
-- :earth_asia: I'm living now in **Seoul, South Korea**
-- :monocle_face: I'm a interested in NLP model. Now I'm focusing on IR(Information Retrieval), QA(Question Answering). More specifically Fact Verification, Continual Learning.
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
-
-- 🔭 I’m interested in NLP area</a>
-
-- 🤝 I’m available for freelancing.
-
+- :books: **Statistics** Major
+- :earth_asia: From **Seoul, South Korea**
+- :monocle_face: Interested in **NLP**. Focusing on **IR(Information Retrieval)**, **QA(Question Answering)**. Specifically **Fact Verification**, **Continual Learning**
 - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
