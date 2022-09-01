@@ -15,11 +15,8 @@
 - :monocle_face: Interested in **NLP**.
   - **IR(Information Retrieval)**, **QA(Question Answering)**
   - **Fact Verification**, **Continual Learning**
-- 🌱 Loves to Learn new subjects & Revisit related Concepts
-  - Recently studied Spark
-  - Revisit Algorithm   <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 🌱 Loves to Learn new subjects & Revisit related concepts
+  - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
 - 💬 Ask me about **Reactjs & React-Native**
 
@@ -27,7 +24,8 @@
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
 
 <p align="center">
 
