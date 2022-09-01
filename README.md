@@ -3,11 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C996F7&size=20&lines=+Welcome+to+👋+philhoon's+github)](https://git.io/typing-svg)
 <h3 align="center">A passionate NLP engineer from South Korea &#127472;&#127479</h3>
 
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 - 🔭 I’m interested in NLP area</a>
 
 - 🤝 I’m available for freelancing.
