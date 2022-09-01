@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C996F7&size=25&lines=+Welcome+👋+philhoon's+github)](https://git.io/typing-svg)
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C996F7&size=25&lines=+Welcome+to+👋+philhoon's+github)](https://git.io/typing-svg)
+<h3 align="center">A passionate NLP engineer from South Korea &#127472;&#127479</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
