@@ -20,6 +20,9 @@
   - 📄 CV (English)
   - 📝 [Blog](https://psyduck5.tistory.com/)
 
+<br></br>
+<br></br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacts 
 
 <p align="center">
