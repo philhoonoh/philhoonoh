@@ -35,7 +35,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/philhoonoh">
 		    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
 	    <a style="margin-left: 10px;" target="_blank" href="https://psyduck5.tistory.com/">
-			<img src="https://img.shields.io/badge/Blogger-#FF5722?style=for-the-badge&logo=blog&logoColor=white" alt="Blogger"></a>
+			<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blog&logoColor=white" alt="Blogger"></a>
         <a style="margin-left: 10px;" target="_blank" href="mailto:vlfgns5@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
