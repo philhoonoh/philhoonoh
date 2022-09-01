@@ -20,13 +20,6 @@
   - 📄 CV (English)
   - 📝 [Blog](https://psyduck5.tistory.com/)
 
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacts 
 
 <p align="center">
@@ -38,8 +31,6 @@
 			<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blog&logoColor=white" alt="Blogger"></a>
         <a style="margin-left: 10px;" target="_blank" href="mailto:vlfgns5@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
 </div>
 </p>
 
