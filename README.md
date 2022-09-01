@@ -17,7 +17,6 @@
   - **Fact Verification**, **Continual Learning**
 - 💬 More about me
   - 📝 Self-Introduction using Huggingface Trasnformers 
-  - 📄 CV (English)
   - 📝 [Blog](https://psyduck5.tistory.com/)
 
 <br></br>
