@@ -13,9 +13,11 @@
 - :books: **Statistics** Major
 - :earth_asia: From **Seoul, South Korea**
 - :monocle_face: Interested in **NLP**.
-  - Focusing on **IR(Information Retrieval)**, **QA(Question Answering)**. 
-  - Specifically **Fact Verification**, **Continual Learning**
-- 🌱 Currently working on Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+  - **IR(Information Retrieval)**, **QA(Question Answering)**
+  - **Fact Verification**, **Continual Learning**
+- 🌱 Loves to Learn new subjects & Revisit related Concepts
+  - Recently studied Spark
+  - Revisit Algorithm   <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
