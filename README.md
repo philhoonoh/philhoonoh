@@ -12,11 +12,13 @@
 - :credit_card: My full name is **Philhoon Oh**, pronunced as __[fíl huːn o]__ 
 - :books: **Statistics** Major
 - :earth_asia: From **Seoul, South Korea**
-- :monocle_face: Interested in **NLP**.
+- :monocle_face: Interested in **NLP**
   - **IR(Information Retrieval)**, **QA(Question Answering)**
   - **Fact Verification**, **Continual Learning**
-- 🌱 Loves to Learn new subjects & Revisit related concepts
-  - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 💬 More about me
+  - 📝 Self-Introduction using Huggingface Trasnformers 
+  - 📄 CV (English), 📄 CV (Korean)
+  - 
 
 - 💬 Ask me about **Reactjs & React-Native**
 
@@ -25,7 +27,7 @@
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacts 
 
 <p align="center">
 
