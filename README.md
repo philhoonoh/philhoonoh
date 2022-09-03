@@ -25,9 +25,9 @@ My main interests are Information Retrieval(IR) and Question Answering(QA). \
 I think every forms of language including conversations, audio and text can be viewed as "question + (stimulus) = answer" format. (stimulus can be facial expressions, speaker's tone, and external text in conversations, audio, and text respectively) \
 There also have been reports saying that the most-used feature in systems like Apple's Siri and Amazon's Alexa is answering questions.
 
-Topics looking forward to dedicating on are fact verification, continual learning and prompt. \
+Topics looking forward to dedicating on are fact verification, continual learning and prompt. 
 1) Fact Verification 
-    - Answering questions on misleading information can contribute to detrimental effect on society. 
+    - Answering questions based on misleading information can contribute to detrimental effect on society. 
     - How does model discriminate facts from non-facts?
 2) Continual Learning
     - Informations out-dates very rapidly.
