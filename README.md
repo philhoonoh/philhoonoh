@@ -1,6 +1,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphilhoonoh&count_bg=%23C23DC8&title_bg=%23DBA72D&icon=&icon_color=%23AA8C27&title=hits&edge_flat=false"/></a> &nbsp;&nbsp; <img alt="GitHub followers" src="https://img.shields.io/github/followers/philhoonoh?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/philhoonoh?style=social">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C996F7&size=20&lines=+Welcome+to+👋+philhoon's+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C996F7&size=20&lines=+Welcome+to+👋+Philhoon's+github)](https://git.io/typing-svg)
 <h3 align="center">A passionate NLP engineer from South Korea &#127472;&#127479</h3>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
