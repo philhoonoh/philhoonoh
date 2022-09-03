@@ -9,17 +9,33 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- :credit_card: My full name is **Philhoon Oh**, pronunced as __[fíl huːn o]__ 
+- :credit_card: My full name is **Philhoon Oh**, pronounced as __[fíl huːn o]__ 
 - :books: **Statistics** Major
 - :earth_asia: From **Seoul, South Korea**
-- :monocle_face: Interested in **NLP**
-  - **IR(Information Retrieval)**, **QA(Question Answering)**
-  - **Fact Verification**, **Continual Learning**
 - 💬 More about me
   - 📝 Self-Introduction using Huggingface Trasnformers 
   - 📝 [Blog](https://psyduck5.tistory.com/)
 
 <br></br>
+
+## :monocle_face: Interested
+My main interests are Information Retrieval(IR) and Question Answering(QA). \
+I beleive every form of language including conversations, audio and text can be viewed as "question + (stimulus) = answer" format. (stimulus can be facial expressions, speaker's tone, and external text in conversations, audio, and text respectively)
+There also have been reports saying that the most-used feature in systems like Apple's Siri and Amazon's Alexa is answering questions.
+
+Topics looking forward to dedicating on are fact verification, continual learning and prompt. \
+1) Fact Verification 
+    - Answering questions on misleading information can contribute to detrimental effect on society. 
+    - How does model discriminate facts from non-facts?
+2) Continual Learning
+    - Informations out-dates very rapidly.
+    - There needs to be efficient way of dealing with time domain in NLP models
+    - If there is one, can we control the level of new information?
+3) Prompt
+    - Every person has own its personality 
+    - Not just trainning human-like models but also reflecting each one's personality would be interesting.
+    - In my opinion, using prompt is the most cost-effective way of making models to micmic personal distinct behaviors.
+    - Can we inject personal persona into machine using prompt? 
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
