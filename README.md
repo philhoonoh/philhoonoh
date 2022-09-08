@@ -26,7 +26,7 @@ I think every forms of language including conversations, audio and text can be v
 
 Topics looking forward to dedicating on are fact verification, continual learning and prompt. 
 1) Fact Verification 
-    - Answering questions based on misleading information can contribute to detrimental effect on society. 
+    - Answering questions based on misleading information would result in detrimental effects on society. 
     - How does model discriminate facts from non-facts?
 2) Continual Learning
     - Informations out-dates very rapidly.
@@ -35,8 +35,8 @@ Topics looking forward to dedicating on are fact verification, continual learnin
 3) Prompt
     - Every person has own its personality 
     - Not just trainning human-like models but also reflecting each one's personality would be interesting.
-    - In my opinion, using prompt is the most cost-effective way of making models to micmic personal distinct behaviors.
-    - Can we inject personal persona into machine using prompt? 
+    - Personally, using prompt is the most cost-effective way of making models to micmic personal distinct behaviors.
+    - Can we inject individual persona into machine using prompt? 
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
