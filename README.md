@@ -13,7 +13,7 @@
 - :books: **Statistics** Major
 - :earth_asia: From **Seoul, South Korea**
 - 💬 More about me
-  - 📝 Self-Introduction using Huggingface Trasnformers 
+  - 📝 [Self-Introduction using Huggingface Trasnformers](https://github.com/philhoonoh/philhoonoh/blob/main/self-introduction/self_intro_eng.ipynb)
   - 📝 [Blog](https://psyduck5.tistory.com/)
 
 <br></br>
