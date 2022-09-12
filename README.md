@@ -22,7 +22,7 @@
 
 ## :monocle_face: Interests
 My main interests are Information Retrieval(IR) and Question Answering(QA). \
-I think every forms of language including conversations, audio and text can be viewed as "question + (stimulus) = answer" format. (stimulus can be facial expressions, speaker's tone, and external text in conversations, audio, and text respectively) 
+I think every form of language including conversations, audio and text can be viewed as "question + (stimulus) = answer" format. (stimulus can be facial expressions, speaker's tone, and external text in conversations, audio, and text respectively) 
 
 Topics looking forward to dedicating on are fact verification, continual learning and prompt. 
 1) Fact Verification 
