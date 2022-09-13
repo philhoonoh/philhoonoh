@@ -55,7 +55,7 @@ Topics looking forward to dedicating on are fact verification, continual learnin
 <!-- BLOG-POST-LIST:START -->
 
 - English 
-  - [Debugging Argparse Module on Jupyter notebook part1](https://psyduck5.tistory.com/13) 
+  - [Operating System Synchroniztion part1](https://psyduck5.tistory.com/77?category=1020949) 
   - [Debugging Argparse Module on Jupyter notebook part2](https://psyduck5.tistory.com/14) 
 - Korean 
   - [Pyspark on Jupyter notebook Basics](https://psyduck5.tistory.com/74)
