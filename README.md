@@ -28,7 +28,7 @@ Topics looking forward to dedicating on are question answering, fact verificatio
 1) Question Answering  (w/IR) 
     - Question Answering includes various interesting topics: MRC, ODQA, Multi-hop Retrieval, and etc. 
     - If any form of languages can be converted to "question + (stimulus) => answer", we can leverage potential of QA. 
-    - Is it possible to build a NLP model that generalizes human languages to answer any questions? (questions that may require intuition, and creativity) 
+    - Is it possible to build a NLP model that generalizes human languages to answer any questions? (including questions that may require human's intuition and creativity) 
 2) Fact Verification 
     - Answering questions based on misleading information would result in detrimental effects on society. 
     - How does model discriminate facts from non-facts?
