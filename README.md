@@ -22,12 +22,12 @@
 
 ## :monocle_face: Interests
 My main interests are Information Retrieval(IR) and Question Answering(QA). \
-I think every form of language including conversations, audio and text can be viewed as "question + (stimulus) => answer" format. (stimulus can be (facial expressions, speaker's tone, and external text) in (conversations, audio, and text) respectively) 
+I think every form of language including conversations, audio and text can be viewed as "question + external information => answer" format. (stimulus can be (facial expressions, speaker's tone, and external text) in (conversations, audio, and text) respectively) 
 
 Topics looking forward to dedicating on are question answering, fact verification, continual learning and prompt. 
-1) Question Answering  (w/IR) 
-    - Question Answering includes various interesting topics: MRC, ODQA, Multi-hop Retrieval, and etc. 
-    - If any form of languages can be converted to "question + (stimulus) => answer", we can leverage potential of QA. 
+1) Information Retrieval  (w/QA) 
+    - Information Retrieval includes various interesting topics: ODQA, Multi-hop Retrieval, and etc. 
+    - If any form of languages can be converted to "question + external information => answer", we can leverage potential of IR. 
     - Is it possible to build a NLP model that generalizes human languages to answer any questions? (including questions that may require human's intuition and creativity) 
 2) Fact Verification 
     - Answering questions based on misleading information would result in detrimental effects on society. 
