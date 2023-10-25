@@ -21,26 +21,26 @@
 <br></br>
 
 ## :monocle_face: Interests
-My main interests are Information Retrieval(IR) and Question Answering(QA). \
-I think every form of language including conversations, audio and text can be viewed as "question + external information => answer" format. (stimulus can be (facial expressions, speaker's tone, and external text) in (conversations, audio, and text) respectively) 
+I am currently a master's student at the <a href='https://gsai.kaist.ac.kr/'>Kim Jaechul Graduate School of AI</a>, where I am fortunate to be advised by <a href='https://jamesthorne.com/'>James Thorne</a>. Before joining KAIST, I was a NLP engineer in <a href='https://eng.sk.com/companies/sk-inc-c-c'>SK Inc. C&C</a>, and I received my bachelor's degree at UC Berkeley, majoring in Statistics.
 
-Topics looking forward to dedicating on are question answering, fact verification, continual learning and prompt. 
-1) Information Retrieval  (w/QA) 
-    - Information Retrieval includes various interesting topics: ODQA, Multi-hop Retrieval, and etc. 
-    - If any form of languages can be converted to "question + external information => answer", we can leverage potential of IR. 
-    - Is it possible to build a NLP model that generalizes human languages to answer any questions? (including questions that may require human's intuition and creativity) 
-2) Fact Verification 
-    - Answering questions based on misleading information would result in detrimental effects on society. 
-    - How does model discriminate facts from non-facts?
-3) Continual Learning
-    - Informations out-dates very rapidly.
-    - There needs to be efficient way of dealing with time domain in NLP models
-    - If there is one, can we control the level of new information?
-4) Prompt
-    - Every person has own its personality 
-    - Not just trainning human-like models but also reflecting each one's personality would be interesting.
-    - Personally, using prompt is the most cost-effective way of making models to micmic personal distinct behaviors.
-    - Can we inject individual persona into machine using prompt effectively ? (<strike>to create machine clone of human beings</strike>)  
+I believe language plays a pivotal role in transferring knowledge. While humans appeared on Earth millions of years ago, civilization has only been built for thousands of years. It has only been in the last few hundred years that humans have made significant strides by accumulating knowledge through language. In other words, language enables people to think collectively beyond time and space. If we can expedite the sharing of knowledge by incorporating language into machines, it will be possible for humans to make further progress.
+
+My primary interests lie in Information Retrieval (IR) and Question Answering (QA). 
+I believe that every form of language (conversations, audio, text) can be reformulated as `question + (external information) = answer` format. This external information might include facial expressions, the speaker's tone, and contexts.
+With this perspective, I am particularly eager to delve deeper into areas described below:
+
+1. Information Retrieval
+   - Information Retrieval encompasses a range of intriguing topics, such as Open-Domain Question Answering (ODQA), Multi-hop reasoning, and more. 
+   - Let's search for information that can help align with the user's intention.
+
+2. Fact Verification
+   - Answering questions based on misleading information can have detrimental effects on society. 
+   - How can a model effectively discern facts from non-facts?
+
+3. Hallucination (Confabulation)
+   - No definitive solutions have been found yet
+   - Some potential remedies include prompting, ICL (In-Context Learning), and the utilization of external knowledge sources.
+   - How might we effectively resolve this problem?
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
