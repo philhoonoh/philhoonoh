@@ -18,8 +18,6 @@
   - 📝 [Self-Introduction using Huggingface Trasnformers](https://psyduck5.tistory.com/75?category=995420)
 
 <br></br>
-<br></br>
-<br></br>
 
 ## :monocle_face: Interests
 I am currently a master's student at the <a href='https://gsai.kaist.ac.kr/'>Kim Jaechul Graduate School of AI</a>, where I am fortunate to be advised by <a href='https://jamesthorne.com/'>James Thorne</a>. Before joining KAIST, I was a NLP engineer in <a href='https://eng.sk.com/companies/sk-inc-c-c'>SK Inc. C&C</a>, and I received my bachelor's degree at UC Berkeley, majoring in Statistics.
